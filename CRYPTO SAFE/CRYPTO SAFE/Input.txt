@@ -1,0 +1,22 @@
+this is the input file
+this file is getting stored securely
+#import needed libraries
+from Crypto import Random
+from Crypto.Random import get_random_bytes
+from Crypto.Cipher import AES
+from Crypto.Cipher import DES3
+from Crypto.Cipher import PKCS1_OAEP
+from Crypto.PublicKey import RSA
+from binascii import hexlify
+import os, random
+import sys
+import os.path as path
+from PIL import Image
+import stepic
+import PIL 
+import random
+Raghul
+babu
+thillai
+Chandru
+balaji
